@@ -1,0 +1,26 @@
+.mediaViewInfo {
+	--web-view-name: 02i.UI Elements - Color Palette;
+	--web-view-id: ID02iUI_Elements_-_Color_Palette;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID02iUI_Elements_-_Color_Palette;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#ID02iUI_Elements_-_Color_Palette {
+	position: absolute;
+	width: 423px;
+	height: 833px;
+	background-color: rgba(245,247,249,1);
+	overflow: hidden;
+	--web-view-name: 02i.UI Elements - Color Palette;
+	--web-view-id: ID02iUI_Elements_-_Color_Palette;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}

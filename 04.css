@@ -1,0 +1,261 @@
+.mediaViewInfo {
+	--web-view-name: 04.Sign in page – 1;
+	--web-view-id: ID04Sign_in_page__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID04Sign_in_page__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#ID04Sign_in_page__1 {
+	position: absolute;
+	width: 1600px;
+	height: 960px;
+	background-color: rgba(240,250,248,1);
+	overflow: hidden;
+	--web-view-name: 04.Sign in page – 1;
+	--web-view-id: ID04Sign_in_page__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_164_ {
+	fill: url(#Rectangle_164_);
+}
+.Rectangle_164_ {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 800px;
+	height: 960px;
+	left: 0px;
+	top: 0px;
+}
+#text {
+	position: absolute;
+	width: 460px;
+	height: 912px;
+	left: 1052px;
+	top: 79px;
+	overflow: visible;
+}
+#Sequence_me_bg {
+	position: absolute;
+	width: 460px;
+	height: 353px;
+	left: 8px;
+	top: 0px;
+	overflow: visible;
+}
+#Term_of_use_Privacy_policy_bh {
+	left: 98px;
+	top: 897px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(221,221,221,1);
+}
+#btn_login {
+	position: absolute;
+	width: 185px;
+	height: 50px;
+	left: 249px;
+	top: 469px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: 5_0_05_MESSAGES___18.html;
+	cursor: pointer;
+}
+#Rectangle_166 {
+	fill: rgba(44,216,137,1);
+	stroke: rgba(221,221,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_166 {
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#Patient {
+	left: 62px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#text_bf {
+	position: absolute;
+	width: 468px;
+	height: 912px;
+	left: 1044px;
+	top: 79px;
+	overflow: visible;
+}
+#Sequence_me_bg {
+	position: absolute;
+	width: 460px;
+	height: 353px;
+	left: 8px;
+	top: 0px;
+	overflow: visible;
+}
+#Term_of_use_Privacy_policy_bh {
+	left: 98px;
+	top: 897px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(221,221,221,1);
+}
+#btn_login_bi {
+	position: absolute;
+	width: 185px;
+	height: 50px;
+	left: 0px;
+	top: 468px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: 5_0_05_MESSAGES___17.html;
+	cursor: pointer;
+}
+#Rectangle_166_bj {
+	fill: rgba(44,216,137,1);
+	stroke: rgba(221,221,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_166_bj {
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#Doctor {
+	left: 62px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#btn_login_bl {
+	position: absolute;
+	width: 185px;
+	height: 50px;
+	left: 134px;
+	top: 572px;
+	overflow: visible;
+}
+#Rectangle_166_bm {
+	fill: rgba(44,216,137,1);
+	stroke: rgba(221,221,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_166_bm {
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#About_Us {
+	left: 52px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#ID1561052 {
+	position: absolute;
+	width: 1536px;
+	height: 960px;
+	left: -552px;
+	top: 0px;
+	overflow: visible;
+}
+#Who_are_u {
+	left: 1194px;
+	top: 485px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	line-height: 42px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Proxima Nova;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(4,14,40,1);
+}
